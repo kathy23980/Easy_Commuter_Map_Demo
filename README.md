@@ -43,6 +43,15 @@ Time stamp:
 </p>
 <p align = "center"> Subway Station Icon </p>
 
+<div class="w3-col w3-center" style="width:50%">
+    <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">
+    <p> Restaurant Icon </p>
+</div>
+
+<div class="w3-col w3-center" style="width:50%">
+    <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;"> 
+    <p> Subway Station Icon </p>
+</div>
 
 ### 2.3 Responsive search bars
 Easy Commuter Map has search bars that give suggestions with the Emojis used for icons as you type in. You can populate the search bars by clicking on the location you would like to type in on the map as well.
