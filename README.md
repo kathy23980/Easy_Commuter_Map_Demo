@@ -14,17 +14,17 @@ Easy Commuter Map has three different map layers, subway layer, bus layer, and b
 Time stamp:  
 
 <p align = "center">  
-    <img src = "/images/Subway_Layer.png" alt = "Subway Layer" title = "Subway Layer" style="width:750px;height:auto;">  
+    <img src = "/images/Subway_Layer.png" alt = "Subway Layer" title = "Subway Layer" style="width:600px;height:auto;">  
 </p> 
 <p align = "center"> Subway Layer </p>
 
 <p align = "center"> 
-    <img src = "/images/Bus_Layer.png" alt = "Bus Layer" title = "SubwBusay Layer" style="width:500px;height:auto;">  
+    <img src = "/images/Bus_Layer.png" alt = "Bus Layer" title = "SubwBusay Layer" style="width:600px;height:auto;">  
 </p>
 <p align = "center"> Bus Layer </p>
 
 <p align = "center"> 
-    <img src = "/images/Bicycle_Layer.png" alt = "Bicycle Layer" title = "Bicycle Layer" style="width:400px;height:auto;"> 
+    <img src = "/images/Bicycle_Layer.png" alt = "Bicycle Layer" title = "Bicycle Layer" style="width:600px;height:auto;"> 
 </p>  
 <p align = "center"> Bicycle Layer </p>
 
@@ -58,7 +58,7 @@ Easy Commuter Map has search bars that give suggestions with the Emojis used for
 Time stamp:  
 
 <p align = "center"> 
-    <img src = "/images/First_Search_Bar.gif" alt = "Search Bar for Locations" title = "Search Bar for Locations" style="width:750px;height:auto;">  
+    <img src = "/images/First_Search_Bar.gif" alt = "Search Bar for Locations" title = "Search Bar for Locations" style="width:800px;height:auto;">  
 </p> 
 <p align = "center"> Search Bar for Locations </p>
 
@@ -66,6 +66,6 @@ Time stamp:
 Time stamp:  
 
 <p align = "center"> 
-    <img src = "/images/Second_Search_Bar.png" alt = "Search Bar for Directions" title = "Search Bar for Directions" style="width:750px;height:auto;">    
+    <img src = "/images/Second_Search_Bar.png" alt = "Search Bar for Directions" title = "Search Bar for Directions" style="width:600px;height:auto;">    
 </p> 
 <p align = "center"> Search Bar for Directions </p> 
