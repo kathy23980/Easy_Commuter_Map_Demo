@@ -5,8 +5,7 @@ using C++ STL, EZGL, and GTK. This map application can show 19 cities.
 
 ## 1. Video Demo
 This is the video demo of Easy Commuter Map that shows all the features.  
-<iframe src="https://drive.google.com/file/d/1a6yDxAtKIUN6afnogNZvc6p8vVYx9Kgi/preview" width="640" height="480" allow="autoplay"></iframe>
-
+https://drive.google.com/file/d/1a6yDxAtKIUN6afnogNZvc6p8vVYx9Kgi/preview
 
 ## 2. Key features
 Followings are the key features of Easy Commuter Map.
@@ -19,17 +18,23 @@ Time stamp:
 <p align = "center">  
     <img src = "/images/Subway_Layer.png" alt = "Subway Layer" title = "Subway Layer" style="width:500px;height:auto;">  
 </p> 
-<p align = "center"> Subway Layer </p>
+<p align = "center"> Subway Layer 
+
+</p>
 
 <p align = "center"> 
     <img src = "/images/Bus_Layer.png" alt = "Bus Layer" title = "SubwBusay Layer" style="width:500px;height:auto;">  
 </p>
-<p align = "center"> Bus Layer </p>
+<p align = "center"> Bus Layer 
+
+</p>
 
 <p align = "center"> 
     <img src = "/images/Bicycle_Layer.png" alt = "Bicycle Layer" title = "Bicycle Layer" style="width:500px;height:auto;"> 
 </p>  
-<p align = "center"> Bicycle Layer </p>
+<p align = "center"> Bicycle Layer 
+
+</p>
 
 
 ### 2.2 Intuitive icons
@@ -39,35 +44,17 @@ Time stamp:
 <p align = "center"> 
     <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">
 </p>  
-<p align = "center"> Restaurant Icon </p>
+<p align = "center"> Restaurant Icon 
+
+</p>
 
 <p align = "center"> 
     <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;"> 
 </p>
-<p align = "center"> Subway Station Icon </p>
+<p align = "center"> Subway Station Icon 
 
-<table style="width:100%">
-  <tr>
-     <td>
-        <p align="center">
-           <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">
-        </p>
-     </td>
-     <td>
-        <p align="center">
-           <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;"> 
-        </p>
-     </td>
-  </tr>
-  <tr>
-     <td>
-        <p align="center"> Restaurant Icon </p>
-     </td>
-     <td>
-        <p align="center"> Subway Station Icon </p>
-     </td>
-  </tr>
-</table>
+</p>
+
 
 ### 2.3 Responsive search bars
 Easy Commuter Map has search bars that give suggestions with the Emojis used for icons as you type in. You can populate the search bars by clicking on the location you would like to type in on the map as well.
@@ -78,7 +65,9 @@ Time stamp:
 <p align = "center"> 
     <img src = "/images/First_Search_Bar.gif" alt = "Search Bar for Locations" title = "Search Bar for Locations" style="width:800px;height:auto;">  
 </p> 
-<p align = "center"> Search Bar for Locations </p>
+<p align = "center"> Search Bar for Locations 
+
+</p>
 
 + The second search bar is for directions. Once you enter the starting point and the destination and type enter, it'll show the shortest path on the map and detailed directions to the left.  
 Time stamp:  
@@ -86,4 +75,6 @@ Time stamp:
 <p align = "center"> 
     <img src = "/images/Second_Search_Bar.png" alt = "Search Bar for Directions" title = "Search Bar for Directions" style="width:600px;height:auto;">    
 </p> 
-<p align = "center"> Search Bar for Directions </p> 
+<p align = "center"> Search Bar for Directions 
+
+</p> 
