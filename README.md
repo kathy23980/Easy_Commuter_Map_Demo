@@ -7,6 +7,10 @@ using C++ STL, EZGL, and GTK. This map application can show 19 cities.
 This is the video demo of Easy Commuter Map that shows all the features.  
 https://drive.google.com/file/d/1a6yDxAtKIUN6afnogNZvc6p8vVYx9Kgi/preview
 
+<a href="https://drive.google.com/file/d/1a6yDxAtKIUN6afnogNZvc6p8vVYx9Kgi/preview">
+    <img src="/images/Easy_Commuter_Map_Demo.png" alt="Easy Commuter Map Demo" style="width:500px;height:auto;">
+</a>
+
 ## 2. Key features
 Followings are the key features of Easy Commuter Map.
 
