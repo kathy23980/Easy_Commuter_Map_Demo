@@ -33,33 +33,15 @@ Time stamp:
 Easy Commuter Map uses intuitive icons for point of interests (e.g. restaurants, subway stations).  
 Time stamp:  
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-<div class="row">
-  <div class="column">
+<p align = "center"> 
     <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">
-    <p align = "center"> Restaurant Icon </p>
-  </div>
-  <div class="column">
+</p>  
+<p align = "center"> Restaurant Icon </p>
+
+<p align = "center"> 
     <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;"> 
-    <p align = "center"> Subway Station Icon </p>
-  </div>
-</div>
+</p>
+<p align = "center"> Subway Station Icon </p>
 
 
 ### 2.3 Responsive search bars
