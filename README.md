@@ -4,9 +4,17 @@ using C++ STL, EZGL, and GTK. This map application can show 19 cities.
 
 
 ## Contributors
-@pinkareu
-@kelchenn
-@kathy23980
+<p align = "left"> 
+<a href = "https://github.com/pinkareu" title = "@pinkareu" target="_blank"> @pinkareu </a>
+</p>
+
+<p align = "left"> 
+<a href = "https://github.com/kelchenn" title = "@kelchenn" target="_blank"> @kelchenn </a>
+</p>
+
+<p align = "left"> 
+<a href = "https://github.com/kathy23980" title = "@kathy23980" target="_blank"> @kathy23980 </a>
+</p>
 
 
 ## 1. Video Demo
