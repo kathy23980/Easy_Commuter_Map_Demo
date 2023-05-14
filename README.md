@@ -12,9 +12,9 @@ Followings are the key features of Easy Commuter Map.
 ### 2.1 Public transport map layers
 Easy Commuter Map has three different map layers, subway layer, bus layer, and bicycle layer.  
 Time stamp:  
-![Subway Layer](/images/Subway_Layer.png?raw=true "Subway Layer")
-![Bus Layer](/images/Bus_Layer.png?raw=true "Bus Layer")
-![Bicycle Layer](/images/Bicycle_Layer.png?raw=true "Bicycle Layer")
+![Subway Layer](/images/Subway_Layer.png?raw=true "Subway Layer")  
+![Bus Layer](/images/Bus_Layer.png?raw=true "Bus Layer")  
+![Bicycle Layer](/images/Bicycle_Layer.png?raw=true "Bicycle Layer")  
 
 ### 2.2 Intuitive icons
 Easy Commuter Map uses intuitive icons for point of interests (e.g. restaurants, hospitals, subway stations).  
