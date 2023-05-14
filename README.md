@@ -31,28 +31,33 @@ Time stamp:
 ### 2.2 Intuitive icons
 Easy Commuter Map uses intuitive icons for point of interests (e.g. restaurants, subway stations).  
 Time stamp:  
+
 <p align = "left"> 
     <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">  
-    <p> Restaurant Icon </p>
 </p>
 
 <p align = "right"> 
     <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;">  
-    <p> Subway Station Icon </p>
 </p> 
+
+<p align = "left"> Restaurant Icon </p>
+<p align = "right"> Subway Station Icon </p>
 
 ### 2.3 Responsive search bars
 Easy Commuter Map has search bars that give suggestions with the Emojis used for icons as you type in. You can populate the search bars by clicking on the location you would like to type in on the map as well.
 + The first search bar is for locations such as streets, intersections, and points of interest including subway and bus stations. It shows information at the bottom.  
 Time stamp:  
+
 <p align = "center"> 
     <img src = "/images/First_Search_Bar.gif" alt = "Search Bar for Locations" title = "Search Bar for Locations" style="width:750px;height:auto;">  
-    <p> Search Bar for Locations </p>
 </p> 
+<p align = "center"> Search Bar for Locations </p>
+
 
 + The second search bar is for directions. Once you enter the starting point and the destination and type enter, it'll show the shortest path on the map and detailed directions to the left.  
 Time stamp:  
+
 <p align = "center"> 
-    <img src = "/images/Second_Search_Bar.png" alt = "Search Bar for Directions" title = "Search Bar for Directions" style="width:750px;height:auto;">  
-    <p> Search Bar for Directions </p>
+    <img src = "/images/Second_Search_Bar.png" alt = "Search Bar for Directions" title = "Search Bar for Directions" style="width:750px;height:auto;">    
+    Search Bar for Directions
 </p> 
