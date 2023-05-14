@@ -3,6 +3,12 @@ This is the demo of Easy Commuter Map, a responsive map application with an intu
 using C++ STL, EZGL, and GTK. This map application can show 19 cities.
 
 
+## Contributors
+@pinkareu
+@kelchenn
+@kathy23980
+
+
 ## 1. Video Demo
 This is the video demo of Easy Commuter Map that shows all the features.  
 
