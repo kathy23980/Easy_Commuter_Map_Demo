@@ -5,9 +5,8 @@ using C++ STL, EZGL, and GTK. This map application can show 19 cities.
 
 ## 1. Video Demo
 This is the video demo of Easy Commuter Map that shows all the features.  
-Link to the video: 
-<iframe style="width:600px;height:auto;" src="https://drive.google.com/file/d/1a6yDxAtKIUN6afnogNZvc6p8vVYx9Kgi/view?usp=sharing">
-</iframe>
+<iframe src="https://drive.google.com/file/d/1a6yDxAtKIUN6afnogNZvc6p8vVYx9Kgi/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 ## 2. Key features
 Followings are the key features of Easy Commuter Map.
@@ -47,19 +46,28 @@ Time stamp:
 </p>
 <p align = "center"> Subway Station Icon </p>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-<div class="w3-col w3-center" style="width:50%">
-    <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">
-    <p> Restaurant Icon </p>
-</div>
-
-<div class="w3-col w3-center" style="width:50%">
-    <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;"> 
-    <p> Subway Station Icon </p>
-</div>
-
+<table style="width:100%">
+  <tr>
+     <td>
+        <p align="center">
+           <img src = "/images/Restaurant_Icon.png" alt = "Restaurant Icon" title = "Restaurant Icon" style="width:100px;height:auto;">
+        </p>
+     </td>
+     <td>
+        <p align="center">
+           <img src = "/images/Subway_Station_Icon.png" alt = "Subway Station Icon" title = "Subway Station Icon" style="width:100px;height:auto;"> 
+        </p>
+     </td>
+  </tr>
+  <tr>
+     <td>
+        <p align="center"> Restaurant Icon </p>
+     </td>
+     <td>
+        <p align="center"> Subway Station Icon </p>
+     </td>
+  </tr>
+</table>
 
 ### 2.3 Responsive search bars
 Easy Commuter Map has search bars that give suggestions with the Emojis used for icons as you type in. You can populate the search bars by clicking on the location you would like to type in on the map as well.
